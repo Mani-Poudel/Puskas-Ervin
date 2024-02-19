@@ -1295,9 +1295,9 @@ audio {
     .btn-primary:active,
     .btn-primary.active,
     .open .dropdown-toggle.btn-primary {
-        border-color: #fff;
+/*         border-color: #fff; */
         color: #fff;
-        background-color: #466baf;
+       background-color: #14144e;
     }
 
 
