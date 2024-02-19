@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #6174f2;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #556af2;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #556af4;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #324bf3;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #0022ff;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #475ce4;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #705be9;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #556af4;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #354ff9;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #0022ff;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #3646aa;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #556af2;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #5368f0;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #152172;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #061db0;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #556af4;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #556af2;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #556af4;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #1e2d95;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #0022ff;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #323f93;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #556af2;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #455cf3;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #1c37eb;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #0022ff;
 	}
 }
 
@@ -1275,8 +1275,8 @@ audio {
 	font-family: 'Signika', sans-serif;
 	font-size: 30px;
 	/* text-transform: uppercase; */
-	color: #C4515C;
-	text-shadow: 2px 2px 2px #FFF;
+	color: #000000;
+/* 	text-shadow: 2px 2px 2px #FFF; */
 	display: none;
 	font-weight: bold;
 }
